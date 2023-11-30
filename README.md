@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BrotanFire I`m a student of National Research Nuclear University MEPhI☢️ 
-- 👀 I’m interested in C++/C# and Python
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in Python, Django, PostgreSql and Js
+- 🌱 I’m currently learning Python Django and Js
 - 💞️ I’m looking to collaborate on Games, machine learning and another interesting things.
